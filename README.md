@@ -4,9 +4,6 @@ Discussion thread: coming soon...
 
 Donate:
 
-<img height="558" src="btc.jpg" width="400"/>
-
-<img height="450" src="monoQR.jpg" width="400"/>
 
 - https://send.monobank.ua/jar/87uNmHPh5v
 - https://www.buymeacoffee.com/ivanyakymenko 
