@@ -2,11 +2,6 @@ DJI RC-N1
 ===============
 Discussion thread: coming soon...
 
-Donate:
-
-
-- https://send.monobank.ua/jar/87uNmHPh5v
-- https://www.buymeacoffee.com/ivanyakymenko 
 
 -----------------------------------------------------------------------------
 Latest version V3.0.0 (26.09.2023)
